@@ -26,6 +26,19 @@
 
 ---
 
+## 🚀 Current Mission
+> Becoming a skilled Full-Stack Web Developer while building real-world projects and mastering clean UI/UX design.
+
+## ⚖️ Core Beliefs & Principles
+- Consistency beats talent when talent doesn't work hard.
+- Clean code is just as important as working code.
+- Learning is a lifelong journey, not a race.
+- Collaboration > Competition.
+
+## ☕ Fun Fact
+I design better after a cup of tea and late-night code hits different!
+
+
 ## 🌐 Languages
 
 - Hindi: Native / Fluent
