@@ -12,6 +12,26 @@
 - Building cool projects & learning by doing
 - Open to collaborations, internships & freelance work
 
+
+
+---
+
+## 🎓 Education
+
+| Qualification | School/College | Year | Board/University |
+|---------------|----------------|------|------------------|
+| 10th | Kisan Aadarsh inter College | 2019 | U.P. Board |
+| 12th | Kisan Aadarsh inter College | 2021 | U.P. Board |
+| Graduation | Swami Vivekanand Subharti Universty | 2nd - Present | Subharti Universty |
+
+---
+
+## 🌐 Languages
+
+- Hindi: Native / Fluent
+- English: Understandable (reading & writing), improving in speaking
+
+
 ---
 
 ## 🛠️ Skills & Technologies
