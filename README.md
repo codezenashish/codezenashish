@@ -22,7 +22,7 @@
 |---------------|----------------|------|------------------|
 | 10th | Kisan Aadarsh inter College | 2019 | U.P. Board |
 | 12th | Kisan Aadarsh inter College | 2021 | U.P. Board |
-| Graduation | Swami Vivekanand Subharti Universty | 2nd - Present | Subharti Universty |
+| B.com | Swami Vivekanand Subharti Universty | 2nd - Present | Subharti Universty |
 
 ---
 
