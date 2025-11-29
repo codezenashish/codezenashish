@@ -1,6 +1,6 @@
 # Hi, I'm Ashish Choudhary
 
-```bash
+```
 > whoami
 Ashish Choudhary – Frontend Developer & UI Designer
 
