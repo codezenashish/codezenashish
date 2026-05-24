@@ -21,9 +21,9 @@
     Currently learning and building projects to improve every day.
 </div>
 <br/>
-<table>
-  <tr>
-    <td width="40%" align="center" valign="middle">
+<table style="border: none; border-collapse: collapse; background: transparent;">
+  <tr style="border: none;">
+    <td width="40%" align="center" valign="middle" style="border: none;">
       <img src="https://res.cloudinary.com/dy9jmjygx/image/upload/v1779608729/2_uib1mt.png" alt="Brain" width="200"/>
     </td>
     <td width="70%" valign="middle">
