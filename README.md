@@ -8,7 +8,7 @@
   &nbsp;
   <a href="https://github.com/codezenashish?tab=followers"><img alt="Followers" title="Github Followers" src="https://img.shields.io/github/followers/codezenashish?style=for-the-badge&color=000000&labelColor=000000&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIgNS41YTMuNSAzLjUgMCAxIDEgNS44OTggMi41NDkgNS41MDggNS41MDggMCAwIDEgMy4wMzQgNC4wODQuNzUuNzUgMCAxIDEtMS40ODIuMjM1IDQgNCAwIDAgMC03LjkgMCAuNzUuNzUgMCAwIDEtMS40ODItLjIzNkE1LjUwNyA1LjUwNyAwIDAgMSAzLjEwMiA4LjA1IDMuNDkzIDMuNDkzIDAgMCAxIDIgNS41Wk0xMSA0YS43NS43NSAwIDEgMCAwIDEuNSAxLjUgMS41IDAgMCAxIC42NjYgMi44NDQuNzUuNzUgMCAwIDAtLjQxNi42NzJ2LjM1MmEuNzUuNzUgMCAwIDAgLjU3NC43M2MxLjIuMjg5IDIuMTYyIDEuMiAyLjUyMiAyLjM3MmEuNzUuNzUgMCAxIDAgMS40MzQtLjQ0IDUuMDEwIDUuMDEwIDAgMCAwLTMuMTAyLTMuMTY4QTMgMyAwIDAgMCAxMSA0Wm0tNS41LS41YTIgMiAwIDEgMCAwIDQgMiAyIDAgMCAwIDAtNFoiPjwvcGF0aD48L3N2Zz4=" /></a>
   &nbsp;
-  <a href="https://ashish-dev-delta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="ashishchoudhary.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
   &nbsp;
   <a href="mailto:ixtashish@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
   &nbsp;
