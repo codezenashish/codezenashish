@@ -24,7 +24,6 @@
 <img src="https://res.cloudinary.com/dy9jmjygx/image/upload/v1779608729/2_uib1mt.png" alt="Brain" width="200" align="left" style="margin-right: 25px; margin-bottom: 10px;" />
 
 ### Hey there! I'm Ashish
-
 I'm a Full-Stack Developer fueled by coffee and curiosity. I spend my days architecting scalable web applications and my nights perfecting my terminal theme. I believe that clean code and a good night's sleep are the two pillars of productivity. When I'm not coding, you can find me exploring new technologies, debugging random JavaScript issues, or trying to keep my Monstera plant alive.
 
 <br clear="left"/>
