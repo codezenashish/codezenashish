@@ -33,11 +33,9 @@ I'm a Full-Stack Developer fueled by coffee and curiosity. I spend my days archi
 
 <div align="center">
    <h5 align="center">thank you to all these qt people who follow me ♡ </h5>
-   <a href="https://github.com/schmayterling?tab=followers">
-<img width="1200" alt="list of qt people" src="https://gfg.ryanaque.com/api/followers.svg?username=codezenashish&cols=13&width=640&limit=104&gap=0&shape=square" />
+   <a href="https://github.com/codezenashish?tab=followers">
+<img width="1200" alt="list of qt people" src="https://git-follower-grid.vercel.app/api/followers.svg?username=codezenashish&cols=13&width=640&limit=104&gap=0&shape=square" />
 </a>
 </div>
 
 ---
-
-
