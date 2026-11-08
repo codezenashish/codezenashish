@@ -29,6 +29,7 @@ I'm a Full-Stack Developer fueled by coffee and curiosity. I spend my days archi
 <br clear="left"/>
 <hr/>
 
+
 ---
 
 <div align="center">
